@@ -1,7 +1,7 @@
-<h1>Nukkit.JP - ルール<img src="https://github.com/Saisana299/Nukkit.JP/blob/master/Nukkit.JP.png" height="64" width="64" align="left"></img></h1>
-※このルールはNukkit.JPのDiscord及びLobiコミュニティに適用されるものとする。  
-Discord: https://discord.gg/YmUJdfN  
-Lobi: https://lobi.co/invite/zh8wev  
+<h1>Nukkit.JP - ルール<img src="https://github.com/Saisana299/Nukkit.JP/blob/master/Nukkit.JP.png" height="64" width="64" align="left"></img></h1><br />
+Discord https://discord.gg/YmUJdfN  
+Lobi https://lobi.co/invite/zh8wev  
+※このルールはNukkit.JPのDiscord及びLobiコミュニティに適用されるものとする。
 
 ### 1. 基本
 一般常識の範囲内ならば特にルールはありません。  
