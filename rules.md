@@ -1,9 +1,9 @@
-<h1>Nukkit JP Community - ルール<img src="https://github.com/Saisana299/Nukkit.JP/blob/master/Nukkit.JP.png" height="64" width="64" align="left"></img></h1><br />
+<h1>Nukkit.JP - ルール<img src="https://github.com/Saisana299/Nukkit.JP/blob/master/Nukkit.JP.png" height="64" width="64" align="left"></img></h1><br />
 
 ### 0. 適用
 [![GitHub license](https://img.shields.io/badge/Discord-join-blue)](https://discord.gg/YmUJdfN)
 [![GitHub license](https://img.shields.io/badge/Lobi-join-yellow)](https://lobi.co/invite/zh8wev)  
-※このルールはNukkit JP CommunityのDiscord及びLobiコミュニティに適用されるものとする。
+※このルールはNukkit.JPのDiscord及びLobiコミュニティに適用されるものとする。
 
 ### 1. 基本
 一般常識の範囲内ならば特にルールはありません。  
