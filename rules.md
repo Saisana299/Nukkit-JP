@@ -2,7 +2,7 @@
 
 ### 0. 適用
 [![GitHub license](https://img.shields.io/badge/Discord-join-blue)](https://discord.gg/YmUJdfN)  
-※このルールはNukkit.JPのDiscord及びLobiコミュニティに適用されるものとする。
+※このルールはNukkit.JPのDiscordコミュニティに適用されるものとする。
 
 ### 1. 基本
 一般常識の範囲内ならば特にルールはありません。  
@@ -16,13 +16,12 @@
 - 誹謗中傷
 - 暴言
 - 性的表現
-- スパム ※Lobiでの連投行為もスパムとみなします。
+- スパム
 - 公序良俗に反する行為
 - その他、運営が不適切と判断した行為
 
 ***
 
-**<以下はDiscordのみの内容となります>**
 ### 3. 運営役職について
 `編集中`
 
