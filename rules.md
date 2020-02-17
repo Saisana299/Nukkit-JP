@@ -2,7 +2,6 @@
 
 ### 0. 適用
 [![GitHub license](https://img.shields.io/badge/Discord-join-blue)](https://discord.gg/YmUJdfN)
-[![GitHub license](https://img.shields.io/badge/Lobi-join-yellow)](https://lobi.co/invite/zh8wev)  
 ※このルールはNukkit.JPのDiscord及びLobiコミュニティに適用されるものとする。
 
 ### 1. 基本
